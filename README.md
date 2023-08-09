@@ -1,6 +1,6 @@
-# Agro Kultūras Produktu Mājas Lapa
+# CreditCompany Mājas Lapa
 
-Šis ir repozitorijs, kas satur kodu un failus saistībā ar Agro Kultūras Produkta mājas lapu. Šīs  mājas lapa ir paredzēta, lai sniegtu informāciju par uzņēmumu un tā sniegtajiem produktiem, kā arī piedāvātu iespēju sazināties ar uzņēmumu.
+Šis ir repozitorijs, kas satur kodu un failus saistībā ar ACreditCompany mājas lapu. Šīs  mājas lapa ir paredzēta, lai sniegtu informāciju par uzņēmumu un tā sniegtajiem produktiem, kā arī piedāvātu iespēju sazināties ar uzņēmumu.
 
 ## Lapu saraksts
 
