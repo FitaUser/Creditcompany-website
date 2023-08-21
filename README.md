@@ -33,3 +33,5 @@ Jebkādi ieguldījumi, problēmu ziņojumi vai uzlabojumi ir ļoti gaidīti. Lū
 
 ---
 PS/ HTML5 sakuma template izveidots ar  OpenAI ChatGPT ❤️.
+
+---
