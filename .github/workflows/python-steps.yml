@@ -7,6 +7,6 @@ jobs:
      - name: Step 1 - define Python version
        run: python  --version
      - name: Step 2 - Hello from python
-       run: python print("Hello!")
+       run: python -c 'print("Hi")'
      - name: Step 3 - Calculation from python
-       run: python print(9+10)
+       run: python -c 'print(9+10)'
