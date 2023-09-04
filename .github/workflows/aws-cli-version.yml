@@ -22,3 +22,6 @@ jobs:
         
     - name: Check AWS CLI Version on $ENV_PROD
       run: aws --version
+
+    - name: Check AWS enviroment variables
+      run: echo "Value of ENV_PROD: $ENV_PROD"
