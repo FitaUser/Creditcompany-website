@@ -15,3 +15,6 @@ jobs:
       # run – šeit Linux bash-komanda
       # ls -la uzskaitīs pašreizējās repozitorija saturu
       - run: ls -la
+
+
+      
