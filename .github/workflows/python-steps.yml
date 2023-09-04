@@ -1,0 +1,12 @@
+name: Python steps one by one
+on: [push]
+jobs:
+  run-python:
+    runs-on: ubuntu-latest
+    steps:
+     - name: Step 1 - define Python version
+       run: python  --version
+     - name: Step 2 - Hello from python
+       run: python print("Hello!")
+     - name: Step 3 - Calculation from python
+       run: python print(9+10)
