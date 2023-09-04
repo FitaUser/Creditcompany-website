@@ -1,0 +1,17 @@
+# file: .github/workflows/hello-world.yml
+name: hello-world
+# on – definē notikumus, kas sāk darbplūsmu
+on: push
+jobs:
+  # build – ir patvaļīgi izvēlēts darba nosaukums
+  #  var būt vairāk nekā viens
+  build:
+    # operētājsistēma darbplūsmai
+    runs-on: ubuntu-latest
+    steps: # veicamo darbību saraksts
+      # darbība - veic kādu uzdevumu
+      # checkout —  repozitorija klonēšana
+      - uses: actions/checkout@v3
+      # run – šeit Linux bash-komanda
+      # ls -la uzskaitīs pašreizējās repozitorija saturu
+      - run: ls -la
