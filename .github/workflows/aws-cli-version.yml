@@ -20,5 +20,5 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: us-west-1  # Change this to your desired region
         
-    - name: Check AWS CLI Version
+    - name: Check AWS CLI Version on $ENV_PROD
       run: aws --version
