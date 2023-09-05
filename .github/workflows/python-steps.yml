@@ -10,3 +10,5 @@ jobs:
        run: python -c 'print("Hi")'
      - name: Step 3 - Calculation from python
        run: python -c 'print(9+10)'
+     - name: Fita custom actions 
+       run: python -c 'print("Jobs done")'
