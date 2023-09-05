@@ -1,5 +1,5 @@
 # file: .github/workflows/hello-world.yml
-name: hello-world people
+name: hello-world-people-2
 # on – definē notikumus, kas sāk darbplūsmu
 on: push
 jobs:
