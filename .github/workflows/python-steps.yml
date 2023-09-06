@@ -12,3 +12,5 @@ jobs:
        run: python -c 'print(9+10)'
      - name: Fita custom actions 
        run: python -c 'print("Jobs done")'
+     - name: Install NLP libary 
+       run: pip install lingua-language-detector
