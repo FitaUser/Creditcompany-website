@@ -17,3 +17,5 @@ jobs:
     - name: Check AWS CLI Version on $ENV_PROD
       run: aws --version
       
+    - name: Just hello
+      run: echo "Hi!"
